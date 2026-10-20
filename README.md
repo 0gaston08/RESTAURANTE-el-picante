@@ -1,2 +1,1 @@
-# RESTAURANTE-el-picante
-un restaurante fino
+# RESTAURANTE-PuntoGourmet
