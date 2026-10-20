@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # La Enramada — Restaurante & Cocina de Autor
 
 Sitio web moderno y experiencia digital gastronómica de alta gama desarrollada con **React 19**, **TypeScript**, **Vite** y **Tailwind CSS v4**.
@@ -98,3 +99,6 @@ npm run preview
 ├── tsconfig.json
 └── vite.config.ts            # Configuración de Vite con Tailwind v4
 ```
+=======
+# RESTAURANTE-GustoWeb
+>>>>>>> f61d8925094941d4a67ba7687e048d811c79d778
